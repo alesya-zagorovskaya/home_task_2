@@ -3,16 +3,62 @@ h1 {
 }
 .link {
     border: 1px solid black;
+    width: 100%;
 }
-.name_1 a {
+.red a {
     color: red;
-    width: 20%;
 }
-.name_2 a {
+.blue a {
     color: aqua;
+}
+.yellow a {
+    color: yellow;
+}
+.name-1 {
     width: 20%;
 }
-.name_3 a {
-    color: yellow;
+.name-2 {
+     width: 20%;
+}
+.name-3 {
     width: 60%;
 }
+.white-color {
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+    background-color: white;
+}
+.blue-color {
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+    background-color: blue;
+}
+.red-color {
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+    background-color: red;
+
+}
+.black-color {
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+    background-color: black;
+
+}
+.yellow-color {
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+    background-color: yellow;
+
+}
+
+.parent div {
+    float: left;
+}
+
+
