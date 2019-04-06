@@ -23,42 +23,36 @@ h1 {
 .name-3 {
     width: 60%;
 }
-.white-color {
+.flag{
     border: 1px solid black;
     width: 250px;
     height: 40px;
+}
+.white-color {
     background-color: white;
 }
 .blue-color {
-    border: 1px solid black;
-    width: 250px;
-    height: 40px;
     background-color: blue;
 }
 .red-color {
-    border: 1px solid black;
-    width: 250px;
-    height: 40px;
     background-color: red;
-
 }
 .black-color {
-    border: 1px solid black;
-    width: 250px;
-    height: 40px;
     background-color: black;
 
 }
 .yellow-color {
-    border: 1px solid black;
-    width: 250px;
-    height: 40px;
     background-color: yellow;
 
 }
-
-.parent div {
+.parent {
     float: left;
+    width: 25%;
+}
+.child {
+    margin-left: 300px;
+    float: left;
+    width: 25%;
 }
 
 
