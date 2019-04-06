@@ -50,12 +50,10 @@ h1 {
     width: 25%;
 }
 .child {
-    margin-left: 300px;
     float: left;
     width: 25%;
 }
 .child-2 {
-    margin-left: 300px;
     float: left;
     width: 25%;
 }
@@ -64,7 +62,7 @@ h1 {
     width: 250px;
     height: 120px;
 }
-.krug {
+.circle {
     border: 1px solid red;
     border-radius: 80% 80% 80% 80%;
     height: 90px;
