@@ -54,5 +54,22 @@ h1 {
     float: left;
     width: 25%;
 }
+.child-2 {
+    margin-left: 300px;
+    float: left;
+    width: 25%;
+}
+.flag-2  {
+    border: 1px solid black;
+    width: 250px;
+    height: 120px;
+}
+.krug {
+    border: 1px solid red;
+    border-radius: 80% 80% 80% 80%;
+    height: 90px;
+    width: 100px;
+    margin-left: 75px;
+    margin-top: 10px;
 
-
+}
