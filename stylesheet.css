@@ -23,10 +23,9 @@ h1 {
 .name-3 {
     width: 60%;
 }
-.flag{
-    border: 1px solid black;
+.flag {
     width: 250px;
-    height: 40px;
+    height: 38.7px;
 }
 .white-color {
     background-color: white;
@@ -58,7 +57,6 @@ h1 {
     width: 25%;
 }
 .flag-2  {
-    border: 1px solid black;
     width: 250px;
     height: 120px;
 }
@@ -67,7 +65,25 @@ h1 {
     border-radius: 80% 80% 80% 80%;
     height: 90px;
     width: 100px;
-    margin-left: 75px;
-    margin-top: 10px;
-
+    margin: auto;
+    margin-top: 15px;
 }
+.child-3 {
+    float: right;
+    width: 25%;
+}
+.green-color {
+    background-color: green;
+}
+.flag-3 {
+    width: 83.3px;
+    height: 120px;
+    float: left;
+}
+.border {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
