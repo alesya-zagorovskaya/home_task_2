@@ -6,13 +6,13 @@ h1 {
     height: 50px;
     background-color: grey;
 }
-.red a {
+a.red {
     color: red;
 }
-.blue a {
+a.blue {
     color: aqua;
 }
-.yellow a {
+a.yellow {
     color: yellow;
 }
 .width-1 {
@@ -82,8 +82,8 @@ h1 {
     border: 1px solid black;
     width: 250px;
     height: 120px;
-
 }
 .size {
     font-size: 40px;
+    margin-top: 15px;
 }
